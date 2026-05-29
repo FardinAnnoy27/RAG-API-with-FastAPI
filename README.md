@@ -14,7 +14,6 @@ Ever asked an AI a question about yourself and gotten a completely made-up answe
 - 💎 **Multi-User AI Directory** — Extended API where anyone can submit their profile and be queried.
 
 ---
-
 ## 🏗️ Architecture
 
 
@@ -48,6 +47,7 @@ Ever asked an AI a question about yourself and gotten a completely made-up answe
 └────────────────────┘
 
 ```
+<img width="1176" height="369" alt="" src="https://learn.nextwork.org/projects/static/ai-devops-api/rag-fastapi-chroma-flow-diagram.webp" />
 
 ### How the RAG Pipeline Works
 
