@@ -41,9 +41,6 @@ Ever asked an AI a question about yourself and gotten a completely made-up answe
   ┌─────────┴──────────┐
   │                    │
   ▼                    ▼
-
-```
-
 ┌──────────────┐    ┌───────────────┐
 │  ChromaDB    │    │    Ollama     │
 │  (Vector DB) │    │  (Local LLM)  │
@@ -137,7 +134,7 @@ Follow these steps to set up and run the project from scratch.
 ### Step 1: Clone the Repository
 
 ```powershell
-git clone [https://github.com/YOUR_USERNAME/nextwork-rag-api.git](https://github.com/YOUR_USERNAME/nextwork-rag-api.git)
+git clone [https://github.com/FardinAnnoy27/nextwork-rag-api.git](https://github.com/FardinAnnoy27/nextwork-rag-api.git)
 cd nextwork-rag-api
 
 ```
