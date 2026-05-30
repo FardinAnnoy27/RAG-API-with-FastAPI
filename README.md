@@ -302,7 +302,3 @@ The API was extended into a multi-user system where:
 
 ---
 
-git commit -m "docs: upgrade README with clean architecture diagram and exact setup steps"
-git push
-
-```
